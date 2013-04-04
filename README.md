@@ -1,4 +1,4 @@
-static
-======
+Twitter Bootstrap Sample
+========================
 
-Utility
+Move along, nothing to see here.
